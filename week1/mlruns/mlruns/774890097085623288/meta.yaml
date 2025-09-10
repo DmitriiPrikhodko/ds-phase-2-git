@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/774890097085623288
+creation_time: 1757511600219
+experiment_id: '774890097085623288'
+last_update_time: 1757511600219
+lifecycle_stage: active
+name: First-CNN-Experiment - LeNet

@@ -1,0 +1,11 @@
+Adamax (
+Parameter Group 0
+    betas: (0.9, 0.999)
+    capturable: False
+    differentiable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)

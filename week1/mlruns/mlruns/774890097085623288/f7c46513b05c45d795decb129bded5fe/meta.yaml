@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/774890097085623288/f7c46513b05c45d795decb129bded5fe/artifacts
+end_time: 1757511852421
+entry_point_name: ''
+experiment_id: '774890097085623288'
+lifecycle_stage: active
+run_id: f7c46513b05c45d795decb129bded5fe
+run_name: base_cnn_bs_1024_lr_0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511710551
+status: 3
+tags: []
+user_id: dmitry

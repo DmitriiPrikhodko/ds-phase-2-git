@@ -1,0 +1,1 @@
+(ColorJitter(brightness=None, contrast=None, saturation=None, hue=None), RandomRotation(degrees=[0.0, 180.0], interpolation=nearest, expand=False, fill=0), RandomHorizontalFlip(p=0.5))
