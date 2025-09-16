@@ -1,0 +1,5 @@
+.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+02-01-04[[:space:]]Bot[[:space:]]image[[:space:]]guesser/weights/weights.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text

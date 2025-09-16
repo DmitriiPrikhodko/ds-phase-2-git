@@ -211,5 +211,16 @@ week1/mlruns/
 week1/day3/mlruns/
 week1/day3/data/
 week1/day3/data/
-data/
+week1/day4/data/
 mlruns/
+
+# datasets
+
+runs/
+My-First-Project*
+
+
+# Large files
+week1/day4/results/weights/weights.pth
+02-01-04_Bot_image_guesser/weights/weights.pth
+
