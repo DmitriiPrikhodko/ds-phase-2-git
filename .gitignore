@@ -215,6 +215,8 @@ week1/day4/data/
 mlruns/
 
 # datasets
+dataset/
+raw_imgs/
 
 runs/
 My-First-Project*
